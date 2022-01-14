@@ -1,2 +1,2 @@
 # Test-Plan-Support-Application
-a local application for test procedure development and re-use, test status monitoring, and traceability
+Software development teams traditionally store test plans and procedures within text documents. With large software systems, re-use of test procedures is problematic. Additionally, finding procedures to re-use for regression testing becomes a lengthy activity. Commercial products are tailored to organizations on open systems that can access the internet. What about software companies working on classified software on closed systems? The team will develop a local application for test procedure development and re-use, test status monitoring, and traceability.
